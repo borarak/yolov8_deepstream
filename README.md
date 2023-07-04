@@ -1,6 +1,8 @@
 # yolov8_deepstream
 
-Run the yolov8 object detector with NVIDIA deepstream
+Run the yolov8 object detector with NVIDIA deepstream..
+
+Detailed [blog post here](https://medium.com/@reachraktim/object-detection-with-yolov8-and-nvidia-deepstream-95c238753f50)
 
 
 ## Build the shared lib
